@@ -1,0 +1,35 @@
+Experiment 5: Exploring Different IoT devices
+
+Bluetooth:
+Bluetooth Classic: Used for short-range peer-to-peer communication 
+(e.g., connecting a phone to a speaker). 
+It’s low power and suitable for audio streaming.
+
+Bluetooth Low Energy (BLE): Designed for low-power applications 
+(e.g., wearables, sensors). 
+BLE 5 supports mesh networking and longer range.
+
+WiFi Direct:
+A peer-to-peer WiFi technology that 
+allows devices to communicate directly without an access point. 
+Useful for data transfer between nearby devices.
+
+Zigbee:
+A low-power, low-data network protocol for IoT devices. 
+Zigbee operates in the 2.4 GHz band and is commonly used in home automation 
+and industrial applications.
+
+Z-Wave:
+Proprietary wireless technology for home automation. 
+Unlike Zigbee and BLE, Z-Wave uses a sub-1GHz band, 
+providing better range within homes.
+
+NFC (Near Field Communication):
+Extremely short-range communication (within a few centimeters). 
+Used for contactless payments, pairing devices, 
+and data exchange (e.g., tapping a card or phone to pay).
+
+LoRaWAN (Long Range Wide Area Network):
+Designed for long-range communication (up to several kilometers) 
+with low power consumption. 
+Ideal for connecting remote sensors and devices to the cloud
